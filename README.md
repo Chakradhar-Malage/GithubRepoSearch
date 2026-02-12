@@ -422,7 +422,7 @@ curl http://localhost:8089/api/github/repositories
 ---
 
 
-## ���‍��� Author
+## Author
 
 
 **Chakradhar**
