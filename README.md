@@ -11,7 +11,6 @@
 This project is a Spring Boot REST API that integrates with the GitHub Search API to fetch repositories based on user queries, store them in a PostgreSQL database, and provide endpoints to retrieve and filter the stored repositories.
 
 
-It was developed as part of a technical assessment.
 
 
 ---
@@ -425,7 +424,7 @@ curl http://localhost:8089/api/github/repositories
 ---
 
 
-## í±¨â€í²» Author
+## ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Author
 
 
 **Chakradhar**
