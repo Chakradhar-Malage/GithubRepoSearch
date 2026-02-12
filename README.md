@@ -379,8 +379,6 @@ The GitHub Search API returns 30 results per request by default.
 Currently, this project fetches the first page only.
 
 
-Pagination can be added in future enhancements with tokens.
-
 
 ---
 
